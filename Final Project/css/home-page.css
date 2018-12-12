@@ -1,0 +1,78 @@
+.header {
+    width: auto;
+    height: 130px;
+    background-color: azure;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.sidebar {
+    height: auto;
+    width: 14%;
+    background-color: azure;
+    float: left;
+    padding: 5px;
+}
+
+.main {
+    width: 84%;
+    background-color: beige;
+    height: 100%;
+    float: right;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: azure;
+  color: black;
+  text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+a:active {
+    text-decoration: none;
+    color: black;
+}
+
+.summary {
+    font-style: italic;
+    text-indent: 25px;
+}
+
+.sources {
+    font-weight: bold;
+    text-indent: 30px;
+}
+
+.specwords {
+    font-weight: bold;
+}
+
+.headers {
+    color: black;
+    text-indent: 20px;
+}
+
